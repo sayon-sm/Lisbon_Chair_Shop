@@ -20,6 +20,10 @@ GREY COLOR: #343a40
 /* ------------------------ */
 /* GENERAL STYLES */
 /* ------------------------ */
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: 'Inter', sans-serif;
   color: #343a40;
